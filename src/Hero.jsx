@@ -6,10 +6,9 @@ function Hero() {
         <div className='hero-title'>
           <h1>Contentful CMS</h1>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione
-            asperiores amet pariatur provident sapiente, itaque perspiciatis
-            nulla corporis esse, autem praesentium illo totam porro aspernatur
-            sed, consequatur suscipit aperiam eum.
+            Below you find a collection of some projects I've been working on.
+            You can click at each image which will bring you to the specific
+            project.
           </p>
         </div>
         <div className='img-container'>
